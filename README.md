@@ -1,0 +1,2 @@
+# Diary-APP-Android
+The purpose of this Android project is to provide a diary APP that users can record their important memories and unforgettable moments with characters and pictures on their own phones privately. Users can record what they feeling at this moment and take a picture for better remembering. Also this diary APP can let users choose the date as they usually do on their paper diaries.
